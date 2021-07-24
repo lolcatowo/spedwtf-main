@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "sped",
+    "name": "sped.wtf",
+    "description": "best pvp client of all time",
+    "version": "0.1.0",
+    "mcversion": "1.12.2",
+    "logoFile": "logo.png",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Epiruku",
+      "MioYakiYama"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
